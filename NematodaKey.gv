@@ -1,0 +1,33 @@
+// FOO
+digraph "Nematoda Key" {
+	graph [rankdir=LR]
+	001 [label="Key to Nematoda
+in the Kootenay Area" fillcolor=red style=filled]
+	001.1 [label="Cephalic setae" fillcolor=aqua style=filled]
+	001 -> 001.1
+	001.1 -> 002 [label=Indistinct]
+	001.1 -> 064 [label="Setae-like
+head appendages"]
+	001.1 -> 069 [label=Visible]
+	"" [label="" fillcolor=aqua style=filled]
+	"" [label="" fillcolor=aqua style=filled]
+	"" -> "" [label=""]
+	"" -> "" [label=""]
+	"" -> "" [label=""]
+	"" -> "" [label=""]
+	"" -> "" [label=""]
+	"" -> "" [label=""]
+	"" -> "" [label=""]
+	"" -> "" [label=""]
+	"" -> "" [label=""]
+	"" -> "" [label=""]
+	"" -> "" [label=""]
+	"" -> "" [label=""]
+	"" -> "" [label=""]
+	"" -> "" [label=""]
+	"" -> "" [label=""]
+	"" -> "" [label=""]
+	"" -> "" [label=""]
+	"" [label="" fillcolor=aqua style=filled]
+	"" [color=blue fillcolor=aquamarine3 shape=doubleoctagon style="rounded,filled"]
+}
